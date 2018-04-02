@@ -1,0 +1,1 @@
+out的artifacts下面有jar包，可直接运行

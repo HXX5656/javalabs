@@ -1,0 +1,1 @@
+java -jar lab6_17302010077.jar

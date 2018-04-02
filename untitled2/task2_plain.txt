@@ -1,0 +1,4 @@
+Hello! Welcome to Programming course!
+In this course, you will learn Java from 0.
+Let's try our best to make it!
+Any question?

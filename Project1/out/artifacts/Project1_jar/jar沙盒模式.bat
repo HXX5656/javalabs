@@ -1,0 +1,1 @@
+java -jar Project1.jar mode sandbox map 3

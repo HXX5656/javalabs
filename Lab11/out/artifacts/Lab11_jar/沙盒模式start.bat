@@ -1,0 +1,1 @@
+java -jar Lab11.jar mode sandbox map 4
